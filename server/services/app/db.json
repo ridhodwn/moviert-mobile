@@ -1,0 +1,269 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "admin1",
+            "email": "admin1@gmail.com",
+            "password": "12345",
+            "role": "Admin",
+            "phoneNumber": "08123456789",
+            "address": "Jalan Sultan Iskandar Muda No. 1"
+        }
+    ],
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 2,
+            "name": "Drama"
+        },
+        {
+            "id": 3,
+            "name": "Fantasy"
+        },
+        {
+            "id": 4,
+            "name": "Mystery"
+        },
+        {
+            "id": 5,
+            "name": "Horror"
+        }
+    ],
+    "movies": [
+        {
+            "id": 1,
+            "title": "Doctor Strange in the Multiverse of Madness",
+            "slug": "Doctor-Strange-in-the-Multiverse-of-Madness",
+            "synopsis": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+            "trailerUrl": "https://www.youtube.com/watch?v=aWzlQ2N6qqg",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+            "rating": "74",
+            "genreId": 1,
+            "authorId": 1
+        },
+        {
+            "id": 2,
+            "title": "Prey",
+            "slug": "Prey",
+            "synopsis": "A skilled Comanche warrior protects her tribe from a highly evolved alien predator that hunts humans for sport, fighting against wilderness, dangerous colonisers and this mysterious creature to keep her people safe.",
+            "trailerUrl": "https://www.youtube.com/watch?v=wZ7LytagKlc",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDBlMDYxMDktOTUxMS00MjcxLWE2YjQtNjNhMjNmN2Y3ZDA1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+            "rating": 93,
+            "genreId": 1,
+            "authorId": 1
+        },
+        {
+            "id": 3,
+            "title": "Spencer",
+            "slug": "Spencer",
+            "synopsis": "Diana Spencer, struggling with mental-health problems during her Christmas holidays with the Royal Family at their Sandringham estate in Norfolk, England, decides to end her decade-long marriage to Prince Charles.",
+            "trailerUrl": "https://www.youtube.com/watch?v=WllZh9aekDg",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTdkZDc4YmQtYzA3My00NzliLThjN2YtMDIwMDkxY2Y4ODdmXkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_FMjpg_UX1000_.jpg",
+            "rating": "83",
+            "genreId": 2,
+            "authorId": 1
+        },
+        {
+            "id": 4,
+            "title": "House of Gucci",
+            "slug": "House-of-Gucci",
+            "synopsis": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge -- and ultimately murder.",
+            "trailerUrl": "https://www.youtube.com/watch?v=pGi3Bgn7U5U",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BYzdlMTMyZWQtZWNmMC00MTJiLWIyMWMtM2ZlZDdlYzZhNTc0XkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_FMjpg_UX1000_.jpg",
+            "rating": 62,
+            "genreId": 2,
+            "authorId": 1
+        },
+        {
+            "id": 5,
+            "title": "Three Thousand Years of Longing",
+            "slug": "Three-Thousand-Years-of-Longing",
+            "synopsis": "While attending a conference in Istanbul, Dr. Alithea Binnie happens to encounter a djinn who offers her three wishes in exchange for his freedom. This presents two problems: first, she doubts that he's real, and second, because she's a scholar of story and mythology, she knows all the cautionary tales of wishes gone wrong. The djinn pleads his case by telling her fantastical stories of his past. Eventually, she's beguiled and makes a wish that surprises them both.",
+            "trailerUrl": "https://www.youtube.com/watch?v=TWGvntl9itE",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BOGFkYTk5NTEtMTk0Zi00YTNiLTkwYzMtY2Y0NzZjNTM1MzlkXkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg",
+            "rating": 71,
+            "genreId": 3,
+            "authorId": 1
+        },
+        {
+            "id": 6,
+            "title": "Dolittle",
+            "slug": "Dolittle",
+            "synopsis": "Dr. John Dolittle lives in solitude behind the high walls of his lush manor in 19th-century England. His only companionship comes from an array of exotic animals that he speaks to on a daily basis. But when young Queen Victoria becomes gravely ill, the eccentric doctor and his furry friends embark on an epic adventure to a mythical island to find the cure.",
+            "trailerUrl": "https://www.youtube.com/watch?v=FEf412bSPLs",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDNkODA5ZGQtODczOS00OTQxLThhMTItMjk0ZmNhMDM0YjNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+            "rating": 15,
+            "genreId": 3,
+            "authorId": 1
+        },
+        {
+            "id": 7,
+            "title": "Knives Out",
+            "slug": "Knives-Out",
+            "synopsis": "The circumstances surrounding the death of crime novelist Harlan Thrombey are mysterious, but there's one thing that renowned Detective Benoit Blanc knows for sure -- everyone in the wildly dysfunctional Thrombey family is a suspect. Now, Blanc must sift through a web of lies and red herrings to uncover the truth.",
+            "trailerUrl": "https://www.youtube.com/watch?v=qGqiHJTsRkQ",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_.jpg",
+            "rating": 97,
+            "genreId": 4,
+            "authorId": 1
+        },
+        {
+            "id": 8,
+            "title": "Nightmare Alley",
+            "slug": "Nightmare-Alley",
+            "synopsis": "In 1940s New York, down-on-his-luck Stanton Carlisle endears himself to a clairvoyant and her mentalist husband at a traveling carnival. Using newly acquired knowledge, Carlisle crafts a golden ticket to success by swindling the elite and wealthy. Hoping for a big score, he soon hatches a scheme to con a dangerous tycoon with help from a mysterious psychologist who might be his most formidable opponent yet.",
+            "trailerUrl": "https://www.youtube.com/watch?v=Q81Yf46Oj3s",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTI4NDhhNGEtZjQxZC00ZTRmLThmZTctOGJmY2ZlOTc0ZGY0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "rating": 80,
+            "genreId": 4,
+            "authorId": 1
+        },
+        {
+            "id": 9,
+            "title": "Barbarian",
+            "slug": "Barbarian",
+            "synopsis": "A young woman discovers the rental home she booked is already occupied by a stranger. Against her better judgment, she decides to spend the night but soon discovers there's a lot more to fear than just an unexpected house guest.",
+            "trailerUrl": "https://www.youtube.com/watch?v=Dr89pmKrqkI",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BN2M3Y2NhMGYtYjUxOS00M2UwLTlmMGUtYzY4MzFlNjZkYzY2XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_FMjpg_UX1000_.jpg",
+            "rating": 92,
+            "genreId": 5,
+            "authorId": 1
+        },
+        {
+            "id": 10,
+            "title": "Scream",
+            "slug": "Scream",
+            "synopsis": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, Calif., a new killer dons the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town's deadly past.",
+            "trailerUrl": "https://www.youtube.com/watch?v=beToTslH17s",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BYjExYTcwYmYtMWY2Zi00MGJlLTk3YjUtZTU1Zjg4MDc0Y2FjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+            "rating": 76,
+            "genreId": 5,
+            "authorId": 1
+        }
+    ],
+    "casts" : [
+        {
+            "id": 1,
+            "movieId": 1,
+            "name": "Benedict Cumberbatch",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_UY317_CR2,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 2,
+            "movieId": 1,
+            "name": "Elizabeth Olsen",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BMjEzMjA0ODk1OF5BMl5BanBnXkFtZTcwMTA4ODM3OQ@@._V1_UY317_CR6,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 3,
+            "movieId": 2,
+            "name": "Amber Midthunder",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BNjMwYjI1ZTctZGE5My00M2RmLTgxNzktMmZkN2I3M2Q5MTE5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR14,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 4,
+            "movieId": 2,
+            "name": "Dakota Beavers",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BN2YzZGNmZmYtZTc4MS00MTRiLWEyOTMtZTQ0MDE5ZjMzYzU0XkEyXkFqcGdeQXVyMTUyOTU1Njg4._V1_UY317_CR63,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 5,
+            "movieId": 3,
+            "name": "Kristen Stewart",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BYTJlOGE3ZjEtZDg4OS00MGJlLTgzY2QtYzg3OWE2NmZmYmE1XkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_UY317_CR40,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 6,
+            "movieId": 3,
+            "name": "Timothy Spall",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BMTQ3NzE2NzAxOF5BMl5BanBnXkFtZTYwNzIzODY1._V1_UX214_CR0,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 7,
+            "movieId": 4,
+            "name": "Lady Gaga",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BMTg1NjQwMzU4MF5BMl5BanBnXkFtZTgwNTk5NjQ4NjE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 8,
+            "movieId": 4,
+            "name": "Adam Driver",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BYThiYmU0ODAtNjZkMC00OTBiLWE5NzgtMDY3YjMwYTg5NWJjXkEyXkFqcGdeQXVyMTUwOTY2MDYx._V1_UY317_CR15,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 9,
+            "movieId": 5,
+            "name": "Tilda Swinton",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BMTM4NzMzMTkwNV5BMl5BanBnXkFtZTcwMzU4MDg1Mw@@._V1_UY317_CR19,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 10,
+            "movieId": 5,
+            "name": "Idris Elba",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 11,
+            "movieId": 6,
+            "name": "Robert Downey Jr.",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 12,
+            "movieId": 6,
+            "name": "Antonio Banderas",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 13,
+            "movieId": 7,
+            "name": "Daniel Craig",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BMjEzMjk4NDU4MF5BMl5BanBnXkFtZTcwMDMyNjQzMg@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 14,
+            "movieId": 7,
+            "name": "Ana de Armas",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BMWM3MDMzNjMtODM5Ny00YmY0LWJhNzQtNTE1ZDNlNjllNDQ0XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UY317_CR130,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 15,
+            "movieId": 8,
+            "name": "Bradley Cooper",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BMjM0OTIyMzY1M15BMl5BanBnXkFtZTgwMTg0OTE0NzE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 16,
+            "movieId": 8,
+            "name": "Cate Blanchett",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_UY317_CR3,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 17,
+            "movieId": 9,
+            "name": "Georgina Campbell",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BMjhmMjZjNTktOGQyNy00YjU2LTljZDAtZTE1OTdiMzk5YWFmXkEyXkFqcGdeQXVyMjg5MDk0NTA@._V1_UY317_CR20,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 18,
+            "movieId": 9,
+            "name": "Bill Skarsgård",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BODBlNmRhODYtOWE2Ni00MTZmLWExMWYtMmRjYWNhNDRjNGU2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY317_CR120,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 19,
+            "movieId": 10,
+            "name": "Melissa Barrera",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BNjg4OTgxMTctZDI0MC00ODY4LWEzNmItZjAwNjQ0NGQ1NDQxXkEyXkFqcGdeQXVyNzYyMTMyODk@._V1_UY317_CR2,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 20,
+            "movieId": 10,
+            "name": "Jack Quaid",
+            "profilePict": "https://m.media-amazon.com/images/M/MV5BY2Y2MmIzOGEtNTgyYi00OWUyLTljNzEtYmFlOWU2MzFkZTg1XkEyXkFqcGdeQXVyMjYyNDg5NzY@._V1_UX214_CR0,0,214,317_AL_.jpg"
+        }
+    ]
+}

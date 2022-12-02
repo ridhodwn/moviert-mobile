@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "username": "admin1",
+    "email": "admin1@gmail.com",
+    "password": "12345",
+    "role": "Admin",
+    "phoneNumber": "08123456789",
+    "address": "Jalan Sultan Iskandar Muda No. 1"
+}
